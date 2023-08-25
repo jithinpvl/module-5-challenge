@@ -26,5 +26,7 @@ The following image shows the web application's appearance and functionality:
       * Special characters ($@%&*, etc)
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+<img width="1278" alt="Screenshot 2023-08-25 at 18 22 19" src="https://github.com/jithinpvl/module-5-challenge/assets/140539271/d311ebbe-390d-4e48-ba4a-d0fc0da1be44">
 
-/Users/jithinthekkemalaparambil/Desktop/Screenshot 2023-08-25 at 18.22.19.png
+
+
