@@ -8,6 +8,8 @@ This week’s challenge requires you to create an application that an employee c
 
 The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
+<img width="1273" alt="Screenshot 2023-08-25 at 18 21 27" src="https://github.com/jithinpvl/module-5-challenge/assets/140539271/a6b7f5f1-4087-42b0-8b14-a90243cffbf8">
+
 ## Instructions
 
 The following image shows the web application's appearance and functionality:
